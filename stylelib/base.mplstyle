@@ -9,9 +9,10 @@ ytick.minor.visible : True
 # seaborn `deep` color palette
 axes.prop_cycle: cycler('color', ['4c72b0', 'dd8452', '55a868', 'c44e52', '8172b3', '937860', 'da8bc3', '8c8c8c', 'ccb974', '64b5cd'])
 
-font.family : monospace
+text.usetex : True
 
 hist.bins: 20
 
 savefig.bbox : tight
 savefig.pad_inches : 0.05
+savefig.dpi : 300
