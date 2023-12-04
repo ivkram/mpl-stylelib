@@ -19,3 +19,6 @@ lines.linewidth : 2
 lines.markersize : 5
 
 font.size : 10
+
+text.usetex : True
+
