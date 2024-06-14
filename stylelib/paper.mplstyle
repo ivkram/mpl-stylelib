@@ -1,7 +1,7 @@
 # 4:3 aspect ratio
 figure.figsize : 3.37689, 2.5326675
 
-axes.linewidth : 2
+axes.linewidth : 1
 
 xtick.major.width : 2
 xtick.major.size : 6
@@ -15,7 +15,7 @@ ytick.major.pad : 6
 ytick.minor.width : 1
 ytick.minor.size : 3.5
 
-lines.linewidth : 2
+lines.linewidth : 1.25
 lines.markersize : 5
 
 font.size : 10

@@ -14,7 +14,7 @@ ytick.major.pad : 6
 ytick.minor.width : 0.5
 ytick.minor.size : 3.5
 
-lines.linewidth : 2
+lines.linewidth : 1.5
 lines.markersize : 5
 
 font.size : 14
