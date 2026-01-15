@@ -1,4 +1,5 @@
-figure.constrained_layout.use: True
+figure.dpi : 100
+figure.constrained_layout.use : True
 
 xtick.top : True
 xtick.direction : in
@@ -9,9 +10,9 @@ ytick.direction : in
 ytick.minor.visible : True
 
 # seaborn `deep` color palette
-axes.prop_cycle: cycler('color', ['4c72b0', 'dd8452', '55a868', 'c44e52', '8172b3', '937860', 'da8bc3', '8c8c8c', 'ccb974', '64b5cd'])
+axes.prop_cycle : cycler('color', ['4c72b0', 'dd8452', '55a868', 'c44e52', '8172b3', '937860', 'da8bc3', '8c8c8c', 'ccb974', '64b5cd'])
 
-hist.bins: 20
+hist.bins : 20
 
 savefig.bbox : tight
 savefig.pad_inches : 0.05

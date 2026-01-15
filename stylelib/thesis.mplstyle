@@ -2,19 +2,21 @@ figure.figsize : 6.11935, 4.58951
 
 axes.linewidth : 1
 
+xtick.major.size : 4.5
+xtick.minor.size : 3
 xtick.major.width : 1
-xtick.major.size : 6
-xtick.major.pad : 6
-xtick.minor.width : 0.5
-xtick.minor.size : 3.5
+xtick.minor.width : 0.8
+xtick.major.pad : 3.5
 
+ytick.major.size : 4.5
+ytick.minor.size : 3
 ytick.major.width : 1
-ytick.major.size : 6
-ytick.major.pad : 6
-ytick.minor.width : 0.5
-ytick.minor.size : 3.5
+ytick.minor.width : 0.8
+ytick.major.pad : 3.5
 
 lines.linewidth : 1.5
-lines.markersize : 5
+lines.markersize : 6
 
 font.size : 14
+
+text.usetex : True
